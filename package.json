@@ -1,24 +1,24 @@
 {
-  "name": "aresume",
+  "name": "一个图书馆",
   "version": "1.0.0",
-  "description": "Wow, such a beautiful resume",
-  "main": "index.html",
+  "description": "图书馆",
+  "main": "g.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DIYgod/Resume.git"
+    "url": "git+https://github.com/Italian0/g.git"
   },
   "keywords": [
     "resume"
   ],
-  "author": "DIYgod",
-  "license": "MIT",
+  "author": "Italian0",
+  "license": "Null",
   "bugs": {
-    "url": "https://github.com/DIYgod/Resume/issues"
+    "url": "https://github.com/Italian0/g/issues"
   },
-  "homepage": "https://github.com/DIYgod/Resume#readme",
+  "homepage": "https://github.com/Italian0/g#readme",
   "devDependencies": {
     "browser-sync": "^2.10.0",
     "gulp": "^3.9.0",
