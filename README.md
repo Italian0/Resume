@@ -2,10 +2,6 @@
 
 https://italian0.github.io/
 
-# My Resume
-
-[html.love](http://html.love)
-
 ## Introduction
 
 风格参考 @Ovilia @joyeecheung @lishengzxc
