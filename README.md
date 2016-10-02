@@ -1,6 +1,9 @@
 #图书馆
 
-https://italian0.github.io/
+https://italian0.github.io/g/
+
+https://italian0.github.io/g/index
+
 
 ## Introduction
 
